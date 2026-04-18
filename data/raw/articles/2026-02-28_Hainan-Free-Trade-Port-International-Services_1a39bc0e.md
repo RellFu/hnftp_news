@@ -1,0 +1,3 @@
+Vaccination reservation guide for visitors to Hainan
+Health check guide for visitors to Hainan
+You are leaving this site and will be connected to a third-party website.

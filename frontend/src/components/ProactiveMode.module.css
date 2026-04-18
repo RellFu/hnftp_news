@@ -1,0 +1,164 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.sectionTitle {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.formRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+/* Two rows of two fields (e.g. Passive retrieval) */
+.formRowTwoRows {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.formRowTwoRows label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.formRow label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  flex: 1;
+  min-width: 180px;
+}
+
+.formRow label span,
+.formRowTwoRows label span {
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #374151;
+}
+
+.formRow input,
+.formRow select,
+.formRowTwoRows input,
+.formRowTwoRows select {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 0.9375rem;
+}
+
+.formRow input:focus,
+.formRow select:focus,
+.formRowTwoRows input:focus,
+.formRowTwoRows select:focus {
+  outline: none;
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2);
+}
+
+.formRow input::placeholder,
+.formRowTwoRows input::placeholder {
+  color: #9ca3af;
+}
+
+.timeframeTrigger {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 0.9375rem;
+  cursor: pointer;
+  background: #fff;
+}
+.timeframeTrigger:focus {
+  outline: none;
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2);
+}
+
+.submitBtn {
+  align-self: flex-start;
+  padding: 0.5rem 1.25rem;
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.submitBtn:hover {
+  background: #1d4ed8;
+}
+
+.submitBtn:disabled {
+  background: #9ca3af;
+  cursor: not-allowed;
+}
+
+/* Loading state: reduce wait anxiety */
+.loadingWrap {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.loadingStatus {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.875rem 1rem;
+  background: #f0f9ff;
+  border: 1px solid #bae6fd;
+  border-radius: 8px;
+  font-size: 0.875rem;
+  color: #0369a1;
+}
+.loadingSpinner {
+  flex-shrink: 0;
+  width: 1.25rem;
+  height: 1.25rem;
+  border: 2px solid #bae6fd;
+  border-top-color: #0284c7;
+  border-radius: 50%;
+  animation: loadingSpin 0.7s linear infinite;
+}
+@keyframes loadingSpin {
+  to { transform: rotate(360deg); }
+}
+.loadingMessage {
+  flex: 1;
+}
+.loadingElapsed {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  color: #0c4a6e;
+}
+
+.pitchStream {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.pitchStreamTitle {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 600;
+}

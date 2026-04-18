@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Build / Next
+frontend/.next/
+frontend/out/
+backend/dist/
+
+# Data / indices (generated)
+knowledge_base/data/processed/
+*.index
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Personal / dissertation artifacts (do not publish to the code repo)
+/CU09_Graduation Project Dissertation Handbook.pdf
+/毕业论文草稿.pdf
+/Pengwei_project design and demo_v3.docx
+/Pengwei_project design and demo_v3.pdf
+/docx_check/

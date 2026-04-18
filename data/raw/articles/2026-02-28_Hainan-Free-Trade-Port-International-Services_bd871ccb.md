@@ -1,0 +1,4 @@
+How can I get a certificate of no criminal record?
+People who have lived in China for a cumulative total of 180 days or more since their entry into the country can request a criminal record check.How do I withdraw my social security contributions (pension & medical insurance) when leaving China?
+According to Chinese regulations, your options depend on whether you have reached China's statutory retirement age (60 for men, 55 for women) when you leave the country.How can I access my work permit information?
+Foreign nationals working in Hainan province can now conveniently access their work permit information through a newly launched digital service.You are leaving this site and will be connected to a third-party website.

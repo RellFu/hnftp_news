@@ -1,0 +1,11 @@
+Does the employer need to obtain approval when hiring foreign interns?
+Click here to check the answer.How to apply for work permits in Hainan on this website?
+Watch the video to find the answers you're looking for.If the arbitral tribunal fails to make a decision within the specified time, can the parties file a lawsuit?
+If no arbitral award is made at the expiration of the time limit, the parties may initiate a litigation to a people’s court with respect to the labor dispute.What is the time limit for the arbitral tribunal to make a decision in a labor dispute case?
+It shall finish making the award within 45 days from the date the labor-dispute arbitration commission accepts the arbitration application.How long does the labor-dispute arbitration commission have to decide whether to accept or reject an arbitration application?
+Within five days from the date it receives the arbitration application, accept the application and notify the applicant of its acceptance, if it considers that the application meets the conditions for acceptance.What is the statute of limitation for applying for arbitration in a labor dispute?
+Click here to check the answer.Is there a fee charged for labor dispute arbitration?
+According to Article 53 of the Labor Dispute Mediation and Arbitration Law, arbitration of labor disputes is free of charge.Which labor dispute arbitration commission in Hainan Province should be chosen for arbitration?
+Click here to check the answer.Under what circumstances can one apply for arbitration with the labor dispute arbitration commission?
+Where the parties are not willing to have mediation, or the mediation fails, or the mediation agreement reached is not performed, they may apply to a labor dispute arbitration commission for arbitration.How can one apply for labor dispute mediation online?
+The Ministry of Human Resources and Social Security has developed the “Internet Plus Mediation” service platform, which provides online application for labor and employment dispute mediation, case progress tracking.You are leaving this site and will be connected to a third-party website.

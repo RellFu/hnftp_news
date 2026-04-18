@@ -1,0 +1,404 @@
+{
+  "description": "海南语料：南海网、海南日报、海南广播电视总台、新华网海南频道、人民网海南频道。与项目主语料分离。",
+  "documents": [
+    {
+      "doc_id": "hainan-228659bf3167",
+      "source": "南海网",
+      "publication_date": "2026-03-04",
+      "title": "海南省网上新闻发布厅",
+      "file_path": "hainan/2026-03-04_海南省网上新闻发布厅.md"
+    },
+    {
+      "doc_id": "hainan-bb8b9288bb3d",
+      "source": "南海网",
+      "publication_date": "2026-03-04",
+      "title": "未来五年如何发展？海南省“十五五”规划纲要专场发布会在海口举行-南海网",
+      "file_path": "hainan/2026-03-04_未来五年如何发展海南省十五五规划纲要专场发布会在海口举行-南海网_hainan-b.md"
+    },
+    {
+      "doc_id": "hainan-58bdf6fa77be",
+      "source": "南海网",
+      "publication_date": "2026-03-04",
+      "title": "“高标准建设海南自由贸易港”系列主题新闻发布会（第九场）——海南省科技系统“十四五”时期发展成效专场——海南省网上新闻发布厅",
+      "file_path": "hainan/2026-03-04_高标准建设海南自由贸易港系列主题新闻发布会第九场海南省科技系统十四五时期发展成效_hainan-5.md"
+    },
+    {
+      "doc_id": "hainan-ed3a50456a72",
+      "source": "南海网",
+      "publication_date": "2026-03-04",
+      "title": "到2026年产业目标300亿元！海南定下推动低空经济发展“路线图”——海南省网上新闻发布厅",
+      "file_path": "hainan/2026-03-04_到2026年产业目标300亿元海南定下推动低空经济发展路线图海南省网上新闻发布厅_hainan-e.md"
+    },
+    {
+      "doc_id": "hainan-6a07a65af186",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "title": "海南日报编辑部评出“2025年海南十大新闻”——海南日报报业集团",
+      "file_path": "hainan/2026-03-04_海南日报编辑部评出2025年海南十大新闻海南日报报业集团_hainan-6.md"
+    },
+    {
+      "doc_id": "hainan-9abe2c013ec7",
+      "source": "海南日报",
+      "publication_date": "2025-01-26",
+      "title": "20250126_1.docx",
+      "file_path": "hainan/2025-01-26_20250126_1docx_hainan-9.md"
+    },
+    {
+      "doc_id": "hainan-1e85b55a770d",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "title": "“国际传播体系”荣获2020年度对外传播十大优秀案例——海南日报报业集团",
+      "file_path": "hainan/2026-03-04_国际传播体系荣获2020年度对外传播十大优秀案例海南日报报业集团_hainan-1.md"
+    },
+    {
+      "doc_id": "hainan-98af416d2f1e",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "title": "祝贺！海南日报社3件作品获第35届中国新闻奖——海南日报报业集团",
+      "file_path": "hainan/2026-03-04_祝贺海南日报社3件作品获第35届中国新闻奖海南日报报业集团_hainan-9.md"
+    },
+    {
+      "doc_id": "hainan-0cd7b8f792f7",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "title": "中国报业创新发展大会上，海南日报与全国报业共享自贸港国际传播经验——海南日报报业集团",
+      "file_path": "hainan/2026-03-04_中国报业创新发展大会上海南日报与全国报业共享自贸港国际传播经验海南日报报业集团_hainan-0.md"
+    },
+    {
+      "doc_id": "hainan-7390fb491122",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "title": "海南日报客户端新开通“椰城播报”共建频道——海南日报报业集团",
+      "file_path": "hainan/2026-03-04_海南日报客户端新开通椰城播报共建频道海南日报报业集团_hainan-7.md"
+    },
+    {
+      "doc_id": "hainan-518aa794e45e",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "title": "海南日报商学大讲堂聚焦民营企业需求推出公益讲座活动——海南日报报业集团",
+      "file_path": "hainan/2026-03-04_海南日报商学大讲堂聚焦民营企业需求推出公益讲座活动海南日报报业集团_hainan-5.md"
+    },
+    {
+      "doc_id": "hainan-3e1c44594c3a",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "title": "海南国际传播中心东盟联络中心在吉隆坡挂牌——海南日报报业集团",
+      "file_path": "hainan/2026-03-04_海南国际传播中心东盟联络中心在吉隆坡挂牌海南日报报业集团_hainan-3.md"
+    },
+    {
+      "doc_id": "hainan-fd7731b462b8",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "title": "海南日报报业集团视频中心成立，首部短片《我来了》温情上线——海南日报报业集团",
+      "file_path": "hainan/2026-03-04_海南日报报业集团视频中心成立首部短片我来了温情上线海南日报报业集团_hainan-f.md"
+    },
+    {
+      "doc_id": "hainan-090fd53c780e",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "title": "《劳拉带你“云”看自贸港》获评 2021 年度网络视听海外传播作品——海南日报报业集团",
+      "file_path": "hainan/2026-03-04_劳拉带你云看自贸港获评-2021-年度网络视听海外传播作品海南日报报业集团_hainan-0.md"
+    },
+    {
+      "doc_id": "hainan-699c5f7be61a",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "title": "海南国际传播中心荣获2020年第二届中国机构海外传播 (海帆奖 )——海南日报报业集团",
+      "file_path": "hainan/2026-03-04_海南国际传播中心荣获2020年第二届中国机构海外传播-海帆奖-海南日报报业集团_hainan-6.md"
+    },
+    {
+      "doc_id": "hainan-44b26d01e5a1",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "title": "梅开三度！“海外传播官”入选第五届中国报业创新发展案例——海南日报报业集团",
+      "file_path": "hainan/2026-03-04_梅开三度海外传播官入选第五届中国报业创新发展案例海南日报报业集团_hainan-4.md"
+    },
+    {
+      "doc_id": "hainan-a5b2f598038b",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "title": "发展历程——海南日报报业集团",
+      "file_path": "hainan/2026-03-04_发展历程海南日报报业集团.md"
+    },
+    {
+      "doc_id": "hainan-494793239808",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "title": "郑和研究会与海南日报报业集团携手推出“和礼”文化项目——海南日报报业集团",
+      "file_path": "hainan/2026-03-04_郑和研究会与海南日报报业集团携手推出和礼文化项目海南日报报业集团.md"
+    },
+    {
+      "doc_id": "hainan-83947c021a44",
+      "source": "海南广播电视总台",
+      "publication_date": "2026-03-04",
+      "title": "海南广播电视总台官网",
+      "file_path": "hainan/2026-03-04_海南广播电视总台官网.md"
+    },
+    {
+      "doc_id": "hainan-ccbfabc4ffa0",
+      "source": "海南广播电视总台",
+      "publication_date": "2017-07-20",
+      "title": "海南广播电视总台(集团)简介_总台(集团)简介_海南广播电视总台官网",
+      "file_path": "hainan/2017-07-20_海南广播电视总台集团简介_总台集团简介_海南广播电视总台官网.md"
+    },
+    {
+      "doc_id": "hainan-76275e423ea6",
+      "source": "海南广播电视总台",
+      "publication_date": "2026-03-04",
+      "title": "主持人风采_海南广播电视总台官网",
+      "file_path": "hainan/2026-03-04_主持人风采_海南广播电视总台官网.md"
+    },
+    {
+      "doc_id": "hainan-22494cdb2831",
+      "source": "海南广播电视总台",
+      "publication_date": "2025-08-27",
+      "title": "海南广播电视总台部门、本级及所属单位2024年度决算公开_通知公告_海南广播电视总台官网",
+      "file_path": "hainan/2025-08-27_海南广播电视总台部门本级及所属单位2024年度决算公开_通知公告_海南广播电视总.md"
+    },
+    {
+      "doc_id": "hainan-4be2d6447d6a",
+      "source": "海南广播电视总台",
+      "publication_date": "2020-08-20",
+      "title": "房遥_主持人风采_海南广播电视总台官网",
+      "file_path": "hainan/2020-08-20_房遥_主持人风采_海南广播电视总台官网.md"
+    },
+    {
+      "doc_id": "hainan-391b5e7df45d",
+      "source": "海南广播电视总台",
+      "publication_date": "2020-08-20",
+      "title": "陈爱京_主持人风采_海南广播电视总台官网",
+      "file_path": "hainan/2020-08-20_陈爱京_主持人风采_海南广播电视总台官网.md"
+    },
+    {
+      "doc_id": "hainan-c0ad48ea425f",
+      "source": "海南广播电视总台",
+      "publication_date": "2020-08-20",
+      "title": "周文培_主持人风采_海南广播电视总台官网",
+      "file_path": "hainan/2020-08-20_周文培_主持人风采_海南广播电视总台官网.md"
+    },
+    {
+      "doc_id": "hainan-be5492138b78",
+      "source": "海南广播电视总台",
+      "publication_date": "2020-08-20",
+      "title": "宋香宜_主持人风采_海南广播电视总台官网",
+      "file_path": "hainan/2020-08-20_宋香宜_主持人风采_海南广播电视总台官网.md"
+    },
+    {
+      "doc_id": "hainan-ce48d1457116",
+      "source": "海南广播电视总台",
+      "publication_date": "2026-02-06",
+      "title": "2026年海南省广播电视工作会议在海口召开_总台(集团)动态_海南广播电视总台官网",
+      "file_path": "hainan/2026-02-06_2026年海南省广播电视工作会议在海口召开_总台集团动态_海南广播电视总台官网.md"
+    },
+    {
+      "doc_id": "hainan-a0afa6cd7d5d",
+      "source": "海南广播电视总台",
+      "publication_date": "2020-08-20",
+      "title": "王天歌_主持人风采_海南广播电视总台官网",
+      "file_path": "hainan/2020-08-20_王天歌_主持人风采_海南广播电视总台官网.md"
+    },
+    {
+      "doc_id": "hainan-c85b1fa61aee",
+      "source": "海南广播电视总台",
+      "publication_date": "2019-11-01",
+      "title": "海南国际旅游消费年 | 海洋旅游，风景这边独好-社会-新闻-映象网",
+      "file_path": "hainan/2019-11-01_海南国际旅游消费年-海洋旅游风景这边独好-社会-新闻-映象网.md"
+    },
+    {
+      "doc_id": "hainan-e46df101e0ce",
+      "source": "海南广播电视总台",
+      "publication_date": "2026-03-04",
+      "title": "习近平在海南考察时强调 解放思想开拓创新团结奋斗攻坚克难 加快建设具有世界影响力的中国特色自由贸易港-大象融媒",
+      "file_path": "hainan/2026-03-04_习近平在海南考察时强调-解放思想开拓创新团结奋斗攻坚克难-加快建设具有世界影响力.md"
+    },
+    {
+      "doc_id": "hainan-4dac4bdf0fe5",
+      "source": "海南广播电视总台",
+      "publication_date": "2019-11-01",
+      "title": "海南国际旅游消费年 | 畅游海南，动起来更精彩-社会-新闻-映象网",
+      "file_path": "hainan/2019-11-01_海南国际旅游消费年-畅游海南动起来更精彩-社会-新闻-映象网.md"
+    },
+    {
+      "doc_id": "hainan-79a337214fa3",
+      "source": "海南广播电视总台",
+      "publication_date": "2026-03-04",
+      "title": "“夜经济”催生海南消费新“夜”态",
+      "file_path": "hainan/2026-03-04_夜经济催生海南消费新夜态.md"
+    },
+    {
+      "doc_id": "hainan-009948c9d735",
+      "source": "海南广播电视总台",
+      "publication_date": "2026-03-04",
+      "title": "海南免税消费“热”不可挡",
+      "file_path": "hainan/2026-03-04_海南免税消费热不可挡.md"
+    },
+    {
+      "doc_id": "hainan-4720452a2469",
+      "source": "海南广播电视总台",
+      "publication_date": "2026-03-04",
+      "title": "三部门调整海南离岛旅客免税购物政策",
+      "file_path": "hainan/2026-03-04_三部门调整海南离岛旅客免税购物政策.md"
+    },
+    {
+      "doc_id": "hainan-1177d2641a39",
+      "source": "海南广播电视总台",
+      "publication_date": "2019-11-15",
+      "title": "海南物种资源探索重大突破：发现11个特有新物种-社会-新闻-映象网",
+      "file_path": "hainan/2019-11-15_海南物种资源探索重大突破发现11个特有新物种-社会-新闻-映象网.md"
+    },
+    {
+      "doc_id": "hainan-b4b4dbef052f",
+      "source": "海南广播电视总台",
+      "publication_date": "2026-03-04",
+      "title": "2025第八届海南国际健康产业博览会面向全球招商",
+      "file_path": "hainan/2026-03-04_2025第八届海南国际健康产业博览会面向全球招商.md"
+    },
+    {
+      "doc_id": "hainan-1f122fdca1da",
+      "source": "海南广播电视总台",
+      "publication_date": "2019-11-01",
+      "title": "中国（海南）自由贸易试验区总体方案 | 全文-社会-新闻-映象网",
+      "file_path": "hainan/2019-11-01_中国海南自由贸易试验区总体方案-全文-社会-新闻-映象网.md"
+    },
+    {
+      "doc_id": "hainan-2658dd9b4e01",
+      "source": "海南广播电视总台",
+      "publication_date": "2020-07-30",
+      "title": "始发站和终点站一样！这些都是什么线路？-融媒热头条-新闻-映象网",
+      "file_path": "hainan/2020-07-30_始发站和终点站一样这些都是什么线路-融媒热头条-新闻-映象网.md"
+    },
+    {
+      "doc_id": "hainan-57bbf5e6797f",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "琼州各地_新华网海南频道-报道海南新闻，传播琼崖文化",
+      "file_path": "hainan/2026-03-04_琼州各地_新华网海南频道-报道海南新闻传播琼崖文化.md"
+    },
+    {
+      "doc_id": "hainan-e00492acf295",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "多彩海南 美丽乡村_新华网海南频道",
+      "file_path": "hainan/2026-03-04_多彩海南-美丽乡村_新华网海南频道.md"
+    },
+    {
+      "doc_id": "hainan-919d3296f270",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "美好新海南 共享新机遇_新华网海南频道",
+      "file_path": "hainan/2026-03-04_美好新海南-共享新机遇_新华网海南频道.md"
+    },
+    {
+      "doc_id": "hainan-5e9264306cf5",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "新时代⋅幸福美丽新边疆——海南篇_新华网海南频道",
+      "file_path": "hainan/2026-03-04_新时代幸福美丽新边疆海南篇_新华网海南频道.md"
+    },
+    {
+      "doc_id": "hainan-47faf101620a",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "第六届海南岛国际电影节",
+      "file_path": "hainan/2026-03-04_第六届海南岛国际电影节.md"
+    },
+    {
+      "doc_id": "hainan-ddab42dc724f",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "新华网",
+      "file_path": "hainan/2026-03-04_新华网.md"
+    },
+    {
+      "doc_id": "hainan-029eea574e3e",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "海南屯昌聚焦高质量发展 绘就多彩新画卷",
+      "file_path": "hainan/2026-03-04_海南屯昌聚焦高质量发展-绘就多彩新画卷.md"
+    },
+    {
+      "doc_id": "hainan-b28983ee2db8",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "印象金椰 _新华网海南频道-报道海南新闻，传播琼崖文化",
+      "file_path": "hainan/2026-03-04_印象金椰-_新华网海南频道-报道海南新闻传播琼崖文化.md"
+    },
+    {
+      "doc_id": "hainan-2444ea293a33",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "陈子薇 _新华社记者看海南_新华网海南频道-报道海南新闻，传播琼崖文化",
+      "file_path": "hainan/2026-03-04_陈子薇-_新华社记者看海南_新华网海南频道-报道海南新闻传播琼崖文化.md"
+    },
+    {
+      "doc_id": "hainan-d48da5a1dfd6",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "海南新聞--人民網海南頻道--人民網_網上的人民日報",
+      "file_path": "hainan/2026-03-04_海南新聞--人民網海南頻道--人民網_網上的人民日報.md"
+    },
+    {
+      "doc_id": "hainan-0e6007b78d0f",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "本網專稿--人民網海南頻道--人民網_網上的人民日報",
+      "file_path": "hainan/2026-03-04_本網專稿--人民網海南頻道--人民網_網上的人民日報.md"
+    },
+    {
+      "doc_id": "hainan-e5736102c283",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "海南資訊--人民網海南頻道--人民網_網上的人民日報",
+      "file_path": "hainan/2026-03-04_海南資訊--人民網海南頻道--人民網_網上的人民日報.md"
+    },
+    {
+      "doc_id": "hainan-51358225bbee",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "要聞聚焦--人民網海南頻道--人民網_網上的人民日報",
+      "file_path": "hainan/2026-03-04_要聞聚焦--人民網海南頻道--人民網_網上的人民日報.md"
+    },
+    {
+      "doc_id": "hainan-df6ff988459b",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "人民生活家--人民網海南視窗--人民網",
+      "file_path": "hainan/2026-03-04_人民生活家--人民網海南視窗--人民網.md"
+    },
+    {
+      "doc_id": "hainan-043658c25879",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "2025年人民網頭條上的海南--人民網海南頻道--人民網_網上的人民日報",
+      "file_path": "hainan/2026-03-04_2025年人民網頭條上的海南--人民網海南頻道--人民網_網上的人民日報.md"
+    },
+    {
+      "doc_id": "hainan-13271f255888",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "一周看海南（9.1-9.7）--海南視窗--人民網",
+      "file_path": "hainan/2026-03-04_一周看海南91-97--海南視窗--人民網.md"
+    },
+    {
+      "doc_id": "hainan-9eafb6e94047",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "海南要聞--人民網海南頻道--人民網_網上的人民日報",
+      "file_path": "hainan/2026-03-04_海南要聞--人民網海南頻道--人民網_網上的人民日報.md"
+    },
+    {
+      "doc_id": "hainan-db558d2ac2bf",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "外媒看海南--海南視窗--人民網",
+      "file_path": "hainan/2026-03-04_外媒看海南--海南視窗--人民網.md"
+    },
+    {
+      "doc_id": "hainan-5709d5a5aa08",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "title": "人民网海南频道--人民网_网上的人民日报",
+      "file_path": "hainan/2026-03-04_人民网海南频道--人民网_网上的人民日报.md"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Can nationals of the 59 visa-free countries travel to other regions within China before coming to Hainan?
+Hainan’s visa-free entry policy is only applicable if you enter China directly through authorized open ports in Hainan.Is there a speed limit on Hainan’s highways?
+The maximum speed on highways is 120 km/h, while the minimum speed is 60 km/h, in accordance with traffic laws in China.How to view the introductions of your favorite attractions?
+Watch video guide and envision Hainan attractions tour!Can I extend my stay in Hainan or travel to other regions within China after the expiration of the visa-free stay period?
+Click here to check the answer.What can I do if my temporary driving permit is lost when I travel in Hainan?
+If your temporary motor vehicle driving permit is lost, you shall apply for the reissuance of the permit to the traffic administration of the Hainan Public Security Department.What kind of cars can I drive in Hainan?
+The vehicle types allowed under a temporary motor vehicle driving permit shall correspond to those authorized by the applicant’s driver’s license.Can I drive in Hainan?
+Overseas drivers (including those from Hong Kong, Macao and Taiwan) entering for a short-term stay are eligible to apply for a temporary motor vehicle driving permit with a validity of three months.Are multiple entries allowed? Is there any requirement for the duration of entry intervals, or any restriction on the number of visa-free entries or total days of stay?
+Foreign nationals eligible for the visa-free entry policy can enter China without a visa multiple times.If my stay in China exceeds 30 days, can I apply for an extension?
+Foreign nationals planning to stay in China for over 30 days shall apply in advance for visas corresponding to their purposes of stay at Chinese embassies or consulates.Are tour groups eligible for the visa-free entry policy?
+The visa-free entry policy applies to eligible foreign nationals either in tour groups or as individuals.You are leaving this site and will be connected to a third-party website.

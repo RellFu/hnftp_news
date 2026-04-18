@@ -1,0 +1,35 @@
+{
+  "study": "Study 0",
+  "purpose": "Justify a Hainan-specific assistant",
+  "method": "Matched corpora comparison (Hainan media vs general media); cosine similarity divergence",
+  "data_source": "data/study0/ only (separate from project main corpus)",
+  "hainan_outlets": [
+    "南海网",
+    "海南日报",
+    "海南广播电视总台",
+    "新华网海南频道",
+    "人民网海南频道"
+  ],
+  "non_hainan_outlets": [
+    "新华社",
+    "人民日报",
+    "BBC",
+    "The New York Times",
+    "Reuters",
+    "AFP"
+  ],
+  "config": {
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "max_docs_per_corpus": 55,
+    "permutations": 1000
+  },
+  "metrics": {
+    "within_hainan_mean_cosine": 0.6154,
+    "within_non_hainan_mean_cosine": 0.3372,
+    "between_mean_cosine": 0.3723,
+    "distinctiveness_delta": 0.104,
+    "centroid_cosine": 0.7986,
+    "permutation_p_value": 0.001
+  },
+  "conclusion": "Domain distinctiveness is statistically significant (p < 0.05); Hainan-focused media corpus is semantically divergent from general news corpus. A Hainan-specific retrieval-augmented assistant is warranted."
+}

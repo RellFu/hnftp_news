@@ -1,0 +1,12 @@
+{
+  "description": "海南语料：南海网、海南日报、海南广播电视总台、新华网海南频道、人民网海南频道",
+  "documents": [
+    {
+      "doc_id": "hainan-001",
+      "source": "南海网",
+      "publication_date": "2024-06-15",
+      "title": "示例标题",
+      "text": "正文内容……（或使用 file_path 指向 data/study0/hainan/xxx.md）"
+    }
+  ]
+}

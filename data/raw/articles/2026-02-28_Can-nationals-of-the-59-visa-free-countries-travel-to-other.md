@@ -1,0 +1,5 @@
+The 30-day visa-free entry policy for foreign nationals entering Hainan province and the visa-free entry policy for foreign tourist groups traveling from the Hong Kong and Macao special administrative regions to Hainan province are regional policies exclusive to Hainan.
+Q: Can nationals of the 59 visa-free countries travel to other regions within China before coming to Hainan?
+A: Hainan's visa-free entry policy is only applicable if you enter China directly through authorized open ports in Hainan. If you enter China through any other open port of entry and then travel to Hainan, you will not be eligible for Hainan's visa-free policy.
+Exit-Entry Administration Branch, Public Security Bureau of Chengmai County, en.nia.gov.cn contributed to the story.
+You are leaving this site and will be connected to a third-party website.

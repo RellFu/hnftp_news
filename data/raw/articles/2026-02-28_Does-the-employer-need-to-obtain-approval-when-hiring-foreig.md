@@ -1,0 +1,5 @@
+Q: Does the employer need to obtain approval when hiring foreign interns?
+A: According to Article 22 of the Regulations of the People’s Republic of China on Administration of the Entry and Exit of Foreigners, when a foreigner holding a residence permit for study intends to engage in off-campus work-study or internship, he or she shall, upon the approval of the school, apply to the entry and exit administration authority of the public security organ to have such information as the location and duration of the work-study program or internship specified in his or her residence permit.
+A foreigner holding a residence permit for study shall not engage in any off-campus work-study or internship unless the information prescribed in the preceding paragraph is specified in his or her residence permit.
+Note: Employers can only hire foreign interns who are enrolled in universities in China; foreign students studying at overseas universities are not eligible.
+You are leaving this site and will be connected to a third-party website.

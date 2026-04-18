@@ -1,0 +1,48 @@
+Drinks and dim sum offerings at a typical laobacha teahouse. [Photo provided to China Daily]
+Taste buds come alive when tickled by a merging of the spicy, bitter, savory and sweet flavors, Lin Qi and Chen Bowen report in Haikou.
+When food enthusiasts travel, they typically seek more authentic gastronomic experiences than dining at the most popular restaurants, which often serve similar dishes. True foodies discover where the locals gather with family and friends for meals. This quest sometimes leads them to an inconspicuous street shop that prides itself on authentic recipes, capturing the essence of local cuisine.
+One such place is Chunfu (Spring and Blessings) Teahouse, tucked into an old neighborhood away from the bustling main road in Haikou, Hainan province.
+An old Chinese saying highlights seven essential ingredients for starting and maintaining a smooth day: firewood, rice, cooking oil, salt, soy sauce, vinegar and tea.
+Haikou is home to many teahouses like Chunfu, which are integral to the island's culinary tradition. These establishments offer tea, snacks, and a variety of other beverages and dishes, serving as gathering spots where residents spend much of their day enjoying breakfast, lunch, and sometimes early dinner.
+Wenchang chicken is a signature dish in Hainan province. [Photo provided to China Daily]
+Chunfu is a modest venue, with tables and chairs that appear to have been used for ages. However, people sit comfortably both inside and outside the shop, even as the 6 pm closing time approaches.
+Visitors can view the menu offerings at the semi-open kitchen and place their orders on paper, evoking a sense of nostalgia for old-time diners.
+Most patrons are locals, likely living nearby, as suggested by their casual attire and relaxed demeanor. Everyone takes their time, leisurely savoring their food and drinks, as if no one is in a rush. This casual attitude explains the meaning behind laobacha (old dad's tea), which has been well-preserved in teahouses like Chunfu.
+Hainan province boasts a rich culinary scene for foodies, featuring specialties such as Hele crabs, Dongshan goat, Wenchang chicken, and zaopocu hotpot. [Photo provided to China Daily]
+The teahouse heritage is believed to have emerged in the late 19th century, when large groups of Chinese immigrants went to Southeast Asia to make a living. When they returned home, they brought back the concept of coffee drinking and cafeterias, which blended with local tea culture. The leisurely lifestyle associated with these teahouses was named after the old men who spent much of their time there, embodying a relaxed and unhurried way of life.
+Tourists seek out such eateries when they want to live like a true local and get an up-close look at Hainan's communities.
+Laobacha is another example of Hainan's diverse gastronomy, shaped by its tropical landscape and ethnic cultures. Inhabited by the Han, Li, Miao and other ethnic groups, the island province has developed a vibrant fusion of culinary traditions that emphasize fresh ingredients and intense, tropical flavors.
+Hainan province boasts a rich culinary scene for foodies, featuring specialties such as Hele crabs, Dongshan goat, Wenchang chicken, and zaopocu hotpot. [Photo provided to China Daily]
+Traveling south from Haikou to Wanning, a journey of one to two hours by train, seafood enthusiasts can savor steamed Hele crab, a specialty from Wanning's coastal Hele town. These lightly steamed crabs are accompanied by a ginger-vinegar dipping sauce that accentuates the natural sweetness of the crab meat.
+For those who prefer red meat over seafood, the stewed Dongshan goat, another renowned dish from Wanning, comes highly recommended.
+Dongshan Mountain is home to distinctive black goats that were once offered as tributes to the imperial palaces during the Song Dynasty (960-1279).
+Preparing this high-quality meat is a simple process: blanching, stir-frying, and slow stewing, seasoned with just salt and white pepper. The result is a milky-white broth and tender, lean meat.
+Hainan province boasts a rich culinary scene for foodies, featuring specialties such as Hele crabs, Dongshan goat, Wenchang chicken, and zaopocu hotpot. [Photo provided to China Daily]
+Perhaps the most famous dish associated with the island is Hainanese chicken rice, which has become a staple across Southeast Asia. It is believed to have been introduced by Chinese immigrants in the late 19th and early 20th centuries, who blended their own culinary traditions with local flavors of Southeast Asia.
+In Haikou, this flagship dish is known as Wenchang chicken. It features fragrant chicken-oil rice served with poached chicken in a bowl. The dish relies on high-quality chicken sourced from the city of Wenchang, located in the northeastern part of the island.
+To achieve a superb texture, the chicken is poached in hot water at a carefully controlled temperature. This preparation follows a traditional method known as "three dips and three lifts", where the meat is repeatedly immersed in and removed from the water.
+Hainan province boasts a rich culinary scene for foodies, featuring specialties such as Hele crabs, Dongshan goat, Wenchang chicken, and zaopocu hotpot. [Photo provided to China Daily]
+Perfectly prepared Wenchang chicken should have a succulent, naturally flavorful texture and crisp, yellow skin. The meat is typically served with a dipping sauce made of lime, chili, and other condiments to enhance its aromatic sweetness.
+Wenchang is also known for another popular dish that has gained popularity beyond Hainan: zaopocu (sour vinasse soup). This dish was created by the residents of Puqian town, who transform the byproducts of liquor distillation into a tangy and delicious sour flavor through fermentation and boiling.
+Zaopocu can be enjoyed with vegetables, meat and seafood — essentially anything. Its unique taste attracts diners who line up at night market stalls and restaurants in Haikou, and as far as Beijing, where it serves as a base soup for hotpot.
+Hainan province boasts a rich culinary scene for foodies, featuring specialties such as Hele crabs, Dongshan goat, Wenchang chicken, and zaopocu hotpot. [Photo provided to China Daily]
+Xiao Xiao, a tourist from Beijing, is among those captivated by the tangy flavor of zaopocu in Haikou.
+"Salty, sour, spicy, with a hint of understated sweetness, the combination of so many flavors suits me perfectly. It pairs wonderfully with seafood. The taste is strong, but not overpowering. It's not overly spicy, oily, or sour, but strikes a fine balance that enhances the natural sweetness of the food," she says.
+Coffee is another hallmark of the island's culinary scene, with plantations and drinking habits introduced by the Chinese returning from Southeast Asia.
+In Wanning's Xinglong town, home to many overseas Chinese who returned, several farms cultivate coffee trees. Xinglong coffee beans are typically on every tourist's souvenir list before leaving Hainan.
+Hainan province boasts a rich culinary scene for foodies, featuring specialties such as Hele crabs, Dongshan goat, Wenchang chicken, and zaopocu hotpot. [Photo provided to China Daily]
+In addition, authentic Indonesian and Malay flavors can be found in Xinglong's restaurants.
+"Pepper, coffee, and winged beans are all crops introduced to the region by Chinese returning from Southeast Asia," says Liang Jinhua, owner of Isana Indonesian Restaurant in Xinglong.
+"My parents brought back recipes from Indonesia. Whether it's curry or sambal, we stay true to those methods. Curried beef brisket, Indonesian fried rice and satay beef skewers are popular among diners."
+Liang has run the restaurant for 15 years, and still exchanges cooking tips with relatives in Central Java, Indonesia.
+Hainan province boasts a rich culinary scene for foodies, featuring specialties such as Hele crabs, Dongshan goat, Wenchang chicken, and zaopocu hotpot. [Photo provided to China Daily]
+Tips for foodies
+Breakfast is often served until 10 or 11 am.
+Laobacha (old dad's tea) is an afternoon affair — 2-5 pm is peak time — served with a variety of desserts.
+Many local restaurants serve dinner until late. Night markets often come alive after 6 pm. Walk the entire length of the market before buying anything so you can see the options and compare prices. You can buy single servings of cut fresh fruit, like mango, pineapple, watermelon, and durian, which are perfect for trying. To buy large quantities, go to a daytime fruit market.
+Menus at small local stalls and markets are often written only in Chinese. At the stalls, point to what you're interested in or show the vendor what others are having. At teahouses, you normally receive a ticket and choose dishes from a counter. Watch what the regulars are grabbing. Remember to order a pot of black tea sweetened with sugar.
+Hainan cuisine is not usually spicy. Chili sauces, such as the famous yellow lantern chili, and vinegar are always available on the side, so you can add as little or as much as you want.
+Some stalls accept cash, but mobile payments via WeChat Pay and Alipay are preferred. International credit cards are almost never accepted by smaller vendors or teahouses.
+Hainan province boasts a rich culinary scene for foodies, featuring specialties such as Hele crabs, Dongshan goat, Wenchang chicken, and zaopocu hotpot. [Photo provided to China Daily]
+Hainan province boasts a rich culinary scene for foodies, featuring specialties such as Hele crabs, Dongshan goat, Wenchang chicken, and zaopocu hotpot. [Photo provided to China Daily]
+You are leaving this site and will be connected to a third-party website.

@@ -1,0 +1,390 @@
+{
+  "description": "非海南语料：新华社、人民日报、BBC、纽约时报、路透社、法新社。与项目主语料分离。",
+  "documents": [
+    {
+      "doc_id": "nonhainan-f25c717c8b01",
+      "source": "新华社",
+      "publication_date": "2026-02-01",
+      "title": "经济政策一线微观察丨再造消费新场域：如何让“家附近”的烟火气滋养日常生活？-新华网",
+      "file_path": "non_hainan/2026-02-01_经济政策一线微观察丨再造消费新场域如何让家附近的烟火气滋养日常生活-新华网_nonhaina.md"
+    },
+    {
+      "doc_id": "nonhainan-29a3784dedf5",
+      "source": "新华社",
+      "publication_date": "2025-12-16",
+      "title": "经济政策一线微观察丨从“冷资源”到“热经济”：看2025冰雪产业万亿赛道“新热气”-新华网",
+      "file_path": "non_hainan/2025-12-16_经济政策一线微观察丨从冷资源到热经济看2025冰雪产业万亿赛道新热气-新华网_nonhaina.md"
+    },
+    {
+      "doc_id": "nonhainan-3b781e9255b4",
+      "source": "新华社",
+      "publication_date": "2026-01-09",
+      "title": "发挥政策集成效应，提升宏观经济治理效能-新华网",
+      "file_path": "non_hainan/2026-01-09_发挥政策集成效应提升宏观经济治理效能-新华网_nonhaina.md"
+    },
+    {
+      "doc_id": "nonhainan-dc7e41d51b52",
+      "source": "新华社",
+      "publication_date": "2026-01-29",
+      "title": "经济政策一线微观察｜跟着兴趣去旅行：“知识型体验消费”为何走红？-新华网",
+      "file_path": "non_hainan/2026-01-29_经济政策一线微观察跟着兴趣去旅行知识型体验消费为何走红-新华网_nonhaina.md"
+    },
+    {
+      "doc_id": "nonhainan-eb74c141df9e",
+      "source": "新华社",
+      "publication_date": "2025-12-11",
+      "title": "中央经济工作会议在北京举行 习近平发表重要讲话-新华网",
+      "file_path": "non_hainan/2025-12-11_中央经济工作会议在北京举行-习近平发表重要讲话-新华网_nonhaina.md"
+    },
+    {
+      "doc_id": "nonhainan-2bc98b07124b",
+      "source": "新华社",
+      "publication_date": "2025-10-19",
+      "title": "经济政策一线微观察丨漫步“一刻钟生活圈”——感受昆明白塔社区的便民经济新思路-新华网",
+      "file_path": "non_hainan/2025-10-19_经济政策一线微观察丨漫步一刻钟生活圈感受昆明白塔社区的便民经济新思路-新华网_nonhaina.md"
+    },
+    {
+      "doc_id": "nonhainan-08addd3e2852",
+      "source": "新华社",
+      "publication_date": "2025-06-09",
+      "title": "经济政策一线微观察丨低空经济蓄势腾飞 新引擎助力高质量发展-新华网",
+      "file_path": "non_hainan/2025-06-09_经济政策一线微观察丨低空经济蓄势腾飞-新引擎助力高质量发展-新华网_nonhaina.md"
+    },
+    {
+      "doc_id": "nonhainan-ef62a4fe7d85",
+      "source": "新华社",
+      "publication_date": "2024-12-27",
+      "title": "中国经济深观察｜调控之效：三大关键词勾勒2024年政策主线-新华网",
+      "file_path": "non_hainan/2024-12-27_中国经济深观察调控之效三大关键词勾勒2024年政策主线-新华网_nonhaina.md"
+    },
+    {
+      "doc_id": "nonhainan-8df0c296fcf6",
+      "source": "新华社",
+      "publication_date": "2025-05-14",
+      "title": "经济政策一线微观察丨减负担 优环境 强信心——稳企政策协同增效-新华网",
+      "file_path": "non_hainan/2025-05-14_经济政策一线微观察丨减负担-优环境-强信心稳企政策协同增效-新华网_nonhaina.md"
+    },
+    {
+      "doc_id": "nonhainan-654850983fbf",
+      "source": "新华社",
+      "publication_date": "2025-02-20",
+      "title": "经济政策一线微观察｜“两新”政策加力扩围 激活经济新动能-新华网",
+      "file_path": "non_hainan/2025-02-20_经济政策一线微观察两新政策加力扩围-激活经济新动能-新华网_nonhaina.md"
+    },
+    {
+      "doc_id": "nonhainan-b2897c6e6f76",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "title": "�ۺϱ���--ʱ��--������",
+      "file_path": "non_hainan/2026-03-04_ۺϱ--ʱ--_nonhaina.md"
+    },
+    {
+      "doc_id": "nonhainan-f2ab32603f95",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "title": "ʱ��--������",
+      "file_path": "non_hainan/2026-03-04_ʱ--_nonhaina.md"
+    },
+    {
+      "doc_id": "nonhainan-ad85118abb42",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "title": "最新报道--时政--人民网",
+      "file_path": "non_hainan/2026-03-04_最新报道--时政--人民网.md"
+    },
+    {
+      "doc_id": "nonhainan-69b63fc05cdb",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "title": "時政--人民網",
+      "file_path": "non_hainan/2026-03-04_時政--人民網_nonhaina.md"
+    },
+    {
+      "doc_id": "nonhainan-d0490828e124",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "title": "人民数据库 权威党政、时政信息平台",
+      "file_path": "non_hainan/2026-03-04_人民数据库-权威党政时政信息平台_nonhaina.md"
+    },
+    {
+      "doc_id": "nonhainan-22d38a3d9dce",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "title": "时政视频--人民视频--人民网",
+      "file_path": "non_hainan/2026-03-04_时政视频--人民视频--人民网_nonhaina.md"
+    },
+    {
+      "doc_id": "nonhainan-920a65a277c8",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "title": "时政--观点--人民网",
+      "file_path": "non_hainan/2026-03-04_时政--观点--人民网.md"
+    },
+    {
+      "doc_id": "nonhainan-0b4acca408b9",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "title": "要闻快讯--时政--人民网",
+      "file_path": "non_hainan/2026-03-04_要闻快讯--时政--人民网.md"
+    },
+    {
+      "doc_id": "nonhainan-54508b7c9795",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "title": "時政要聞--視頻報道--人民網",
+      "file_path": "non_hainan/2026-03-04_時政要聞--視頻報道--人民網.md"
+    },
+    {
+      "doc_id": "nonhainan-1dad89a0e3c4",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "title": "Ҫ�ſ�Ѷ--ʱ��--������",
+      "file_path": "non_hainan/2026-03-04_ҪſѶ--ʱ--.md"
+    },
+    {
+      "doc_id": "nonhainan-9a500d0616a2",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "China economy - BBC News",
+      "file_path": "non_hainan/2026-03-04_China-economy---BBC-News.md"
+    },
+    {
+      "doc_id": "nonhainan-50d145b4cbc6",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "China hits growth goal after exports defy US tariffs",
+      "file_path": "non_hainan/2026-03-04_China-hits-growth-goal-after-exports-def.md"
+    },
+    {
+      "doc_id": "nonhainan-f4f4bbacd67f",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "BBC Audio | The Real Story | China’s economy: How worried should we be?",
+      "file_path": "non_hainan/2026-03-04_BBC-Audio-The-Real-Story-Chinas-econom.md"
+    },
+    {
+      "doc_id": "nonhainan-fb4b37319822",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "China's economic growth slows as trade tensions with US flare up",
+      "file_path": "non_hainan/2026-03-04_Chinas-economic-growth-slows-as-trade-te.md"
+    },
+    {
+      "doc_id": "nonhainan-d9e705ab3b28",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "BBC Audio | The Real Story | Has China's economy peaked?",
+      "file_path": "non_hainan/2026-03-04_BBC-Audio-The-Real-Story-Has-Chinas-ec.md"
+    },
+    {
+      "doc_id": "nonhainan-74af13519ecf",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "Xi Jinping is worried about the economy - what do Chinese people think?",
+      "file_path": "non_hainan/2026-03-04_Xi-Jinping-is-worried-about-the-economy.md"
+    },
+    {
+      "doc_id": "nonhainan-a9679035ac78",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "China GDP:  Economic growth beats expectations as Trump tariffs loom",
+      "file_path": "non_hainan/2026-03-04_China-GDP-Economic-growth-beats-expecta.md"
+    },
+    {
+      "doc_id": "nonhainan-d4c948ccb008",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "China economy slowdown deepens, official figures show",
+      "file_path": "non_hainan/2026-03-04_China-economy-slowdown-deepens-official.md"
+    },
+    {
+      "doc_id": "nonhainan-3c3755f8f5fe",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "Is China's economy a 'ticking time bomb'?",
+      "file_path": "non_hainan/2026-03-04_Is-Chinas-economy-a-ticking-time-bomb.md"
+    },
+    {
+      "doc_id": "nonhainan-cde1bb48ec1d",
+      "source": "纽约时报",
+      "publication_date": "2026-03-04",
+      "title": "China - The New York Times",
+      "file_path": "non_hainan/2026-03-04_China---The-New-York-Times.md"
+    },
+    {
+      "doc_id": "nonhainan-39247f339861",
+      "source": "纽约时报",
+      "publication_date": "2026-03-02",
+      "title": "China’s Parents Are Outsourcing the Homework Grind to A.I. - The New York Times",
+      "file_path": "non_hainan/2026-03-02_Chinas-Parents-Are-Outsourcing-the-Homew.md"
+    },
+    {
+      "doc_id": "nonhainan-77e62bd0277c",
+      "source": "纽约时报",
+      "publication_date": "2026-02-10",
+      "title": "Opinion | I Just Returned From China. We Are Not Winning. - The New York Times",
+      "file_path": "non_hainan/2026-02-10_Opinion-I-Just-Returned-From-China-We-A.md"
+    },
+    {
+      "doc_id": "nonhainan-b0cdea0089ad",
+      "source": "纽约时报",
+      "publication_date": "2026-02-22",
+      "title": "Courting China Again - The New York Times",
+      "file_path": "non_hainan/2026-02-22_Courting-China-Again---The-New-York-Time.md"
+    },
+    {
+      "doc_id": "nonhainan-ed2ad512987f",
+      "source": "纽约时报",
+      "publication_date": "2026-02-02",
+      "title": "Move Fast, but Obey the Rules: China’s Vision for Dominating A.I. - The New York Times",
+      "file_path": "non_hainan/2026-02-02_Move-Fast-but-Obey-the-Rules-Chinas-Visi.md"
+    },
+    {
+      "doc_id": "nonhainan-07f0348f7bef",
+      "source": "纽约时报",
+      "publication_date": "2025-11-13",
+      "title": "Opinion | The China That the World Sees Is Not the One I Live In - The New York Times",
+      "file_path": "non_hainan/2025-11-13_Opinion-The-China-That-the-World-Sees-I.md"
+    },
+    {
+      "doc_id": "nonhainan-f050158974cd",
+      "source": "纽约时报",
+      "publication_date": "2026-03-04",
+      "title": "China Rises- Getting Rich (HTML): The New York Times",
+      "file_path": "non_hainan/2026-03-04_China-Rises--Getting-Rich-HTML-The-New-Y.md"
+    },
+    {
+      "doc_id": "nonhainan-25e46912c6f9",
+      "source": "纽约时报",
+      "publication_date": "2026-03-04",
+      "title": "Great Wall of China\n        \n        \n        \n          – The New York Times Store",
+      "file_path": "non_hainan/2026-03-04_Great-Wall-of-China.md"
+    },
+    {
+      "doc_id": "nonhainan-6258cdd22ce1",
+      "source": "纽约时报",
+      "publication_date": "2026-02-03",
+      "title": "China’s Disappearing Generals - The New York Times",
+      "file_path": "non_hainan/2026-02-03_Chinas-Disappearing-Generals---The-New-Y.md"
+    },
+    {
+      "doc_id": "nonhainan-1cbfca48d744",
+      "source": "纽约时报",
+      "publication_date": "2026-03-04",
+      "title": "中国 - 纽约时报中文网 国际纵览",
+      "file_path": "non_hainan/2026-03-04_中国---纽约时报中文网-国际纵览.md"
+    },
+    {
+      "doc_id": "nonhainan-fc5a395d3567",
+      "source": "法新社",
+      "publication_date": "2026-03-04",
+      "title": "\"Sold by my brother\": The Mekong women pressed into marriage in China | AFP.com",
+      "file_path": "non_hainan/2026-03-04_Sold-by-my-brother-The-Mekong-women-pres.md"
+    },
+    {
+      "doc_id": "nonhainan-4b2e0e3e39a9",
+      "source": "法新社",
+      "publication_date": "2026-03-04",
+      "title": "Omdia: Global TV Shipments Remain Flat at 61.5 Million in 4Q25 Despite 25% Decline in China | AFP.com",
+      "file_path": "non_hainan/2026-03-04_Omdia-Global-TV-Shipments-Remain-Flat-at.md"
+    },
+    {
+      "doc_id": "nonhainan-435ea7b81ed0",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "OpenAI vows safety policy changes after Tumbler Ridge shooting",
+      "file_path": "non_hainan/2026-03-04_OpenAI-vows-safety-policy-changes-after.md"
+    },
+    {
+      "doc_id": "nonhainan-3e8c0e17b0ad",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "Six possible outcomes of Trump's climate policy change",
+      "file_path": "non_hainan/2026-03-04_Six-possible-outcomes-of-Trumps-climate.md"
+    },
+    {
+      "doc_id": "nonhainan-7258fbfda96a",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "Policy",
+      "file_path": "non_hainan/2026-03-04_Policy.md"
+    },
+    {
+      "doc_id": "nonhainan-29119aee8726",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "Trump's foreign policy dilemma laid bare by Iran tensions",
+      "file_path": "non_hainan/2026-03-04_Trumps-foreign-policy-dilemma-laid-bare.md"
+    },
+    {
+      "doc_id": "nonhainan-f72cb6f743c0",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "How Canada soured on immigration",
+      "file_path": "non_hainan/2026-03-04_How-Canada-soured-on-immigration.md"
+    },
+    {
+      "doc_id": "nonhainan-fd170023e4c8",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "Top US news outlets push back against Pentagon's reporting restrictions",
+      "file_path": "non_hainan/2026-03-04_Top-US-news-outlets-push-back-against-Pe.md"
+    },
+    {
+      "doc_id": "nonhainan-4fb334372729",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "Warwickshire: Flag policy 'deeply unsettling' for council's LGBTQ+ staff",
+      "file_path": "non_hainan/2026-03-04_Warwickshire-Flag-policy-deeply-unsettli.md"
+    },
+    {
+      "doc_id": "nonhainan-9de435e3b498",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "Trump expands access to cannabis in a major shift in drug policy",
+      "file_path": "non_hainan/2026-03-04_Trump-expands-access-to-cannabis-in-a-ma.md"
+    },
+    {
+      "doc_id": "nonhainan-d8e4c9c2ed2e",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "Drugs policy approach needs to change, Zack Polanski says",
+      "file_path": "non_hainan/2026-03-04_Drugs-policy-approach-needs-to-change-Za.md"
+    },
+    {
+      "doc_id": "nonhainan-21efaa72da7a",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "title": "Carney pushes for 'Buy Canadian' policy and pauses EV targets for 2026",
+      "file_path": "non_hainan/2026-03-04_Carney-pushes-for-Buy-Canadian-policy-an.md"
+    },
+    {
+      "doc_id": "nonhainan-c30c4f4635aa",
+      "source": "路透社",
+      "publication_date": "2026-03-04",
+      "title": "Is your business AI ready? Is your business AI ready?",
+      "file_path": "non_hainan/2026-03-04_Is-your-business-AI-ready-Is-your-busine.md"
+    },
+    {
+      "doc_id": "nonhainan-e67c33a9c1f4",
+      "source": "路透社",
+      "publication_date": "2026-03-04",
+      "title": "Breathing life into business data Breathing life into business data",
+      "file_path": "non_hainan/2026-03-04_Breathing-life-into-business-data-Breath.md"
+    },
+    {
+      "doc_id": "nonhainan-8412a5960f0b",
+      "source": "路透社",
+      "publication_date": "2026-03-04",
+      "title": "Unearthing the value in business data Unearthing the value in business data",
+      "file_path": "non_hainan/2026-03-04_Unearthing-the-value-in-business-data-Un.md"
+    },
+    {
+      "doc_id": "nonhainan-e23cd4e93c90",
+      "source": "路透社",
+      "publication_date": "2026-03-04",
+      "title": "Business Suite Playbook SAP Business Suite Playbook",
+      "file_path": "non_hainan/2026-03-04_Business-Suite-Playbook-SAP-Business-Sui.md"
+    }
+  ]
+}

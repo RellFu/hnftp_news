@@ -1,0 +1,103 @@
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 40;
+}
+
+.panel {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: min(420px, 100vw);
+  height: 100vh;
+  background: #fff;
+  box-shadow: -4px 0 24px rgba(0, 0, 0, 0.12);
+  z-index: 50;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.25rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.header h3 {
+  margin: 0;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.closeBtn {
+  width: 2rem;
+  height: 2rem;
+  border: none;
+  background: transparent;
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #6b7280;
+}
+
+.closeBtn:hover {
+  color: #111;
+}
+
+.body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1.25rem;
+}
+
+.sectionTitle {
+  margin: 0 0 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #6b7280;
+}
+
+.spanSection {
+  margin-bottom: 1.5rem;
+}
+
+.spanBlockquote {
+  margin: 0;
+  padding: 1rem;
+  background: #f9fafb;
+  border-left: 4px solid #3b82f6;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+}
+
+.metadataSection dl {
+  margin: 0;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.metadataSection dt {
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: #6b7280;
+}
+
+.metadataSection dd {
+  margin: 0;
+  font-size: 0.875rem;
+}
+
+.sourceId {
+  font-family: ui-monospace, monospace;
+  font-size: 0.8125rem;
+  word-break: break-all;
+}
+
+.empty {
+  color: #9ca3af;
+}

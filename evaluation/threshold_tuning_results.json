@@ -1,0 +1,443 @@
+{
+  "dev_task_count": 30,
+  "min_citation_rate_bar": 0.9,
+  "results": [
+    {
+      "top_k": 2,
+      "reranker_threshold": 0.15,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 681.39,
+      "std_latency_ms": 2431.66,
+      "tasks": 30
+    },
+    {
+      "top_k": 2,
+      "reranker_threshold": 0.2,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 204.94,
+      "std_latency_ms": 54.41,
+      "tasks": 30
+    },
+    {
+      "top_k": 2,
+      "reranker_threshold": 0.25,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 198.07,
+      "std_latency_ms": 49.98,
+      "tasks": 30
+    },
+    {
+      "top_k": 2,
+      "reranker_threshold": 0.3,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 198.36,
+      "std_latency_ms": 49.48,
+      "tasks": 30
+    },
+    {
+      "top_k": 2,
+      "reranker_threshold": 0.35,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 202.61,
+      "std_latency_ms": 60.44,
+      "tasks": 30
+    },
+    {
+      "top_k": 2,
+      "reranker_threshold": 0.4,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 200.24,
+      "std_latency_ms": 48.82,
+      "tasks": 30
+    },
+    {
+      "top_k": 2,
+      "reranker_threshold": 0.45,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 202.47,
+      "std_latency_ms": 49.87,
+      "tasks": 30
+    },
+    {
+      "top_k": 2,
+      "reranker_threshold": 0.5,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 198.68,
+      "std_latency_ms": 49.15,
+      "tasks": 30
+    },
+    {
+      "top_k": 3,
+      "reranker_threshold": 0.15,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 240.36,
+      "std_latency_ms": 89.44,
+      "tasks": 30
+    },
+    {
+      "top_k": 3,
+      "reranker_threshold": 0.2,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 259.13,
+      "std_latency_ms": 183.79,
+      "tasks": 30
+    },
+    {
+      "top_k": 3,
+      "reranker_threshold": 0.25,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 225.97,
+      "std_latency_ms": 67.0,
+      "tasks": 30
+    },
+    {
+      "top_k": 3,
+      "reranker_threshold": 0.3,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 230.51,
+      "std_latency_ms": 67.87,
+      "tasks": 30
+    },
+    {
+      "top_k": 3,
+      "reranker_threshold": 0.35,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 301.09,
+      "std_latency_ms": 310.13,
+      "tasks": 30
+    },
+    {
+      "top_k": 3,
+      "reranker_threshold": 0.4,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 264.34,
+      "std_latency_ms": 100.7,
+      "tasks": 30
+    },
+    {
+      "top_k": 3,
+      "reranker_threshold": 0.45,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 274.82,
+      "std_latency_ms": 107.55,
+      "tasks": 30
+    },
+    {
+      "top_k": 3,
+      "reranker_threshold": 0.5,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 237.25,
+      "std_latency_ms": 72.07,
+      "tasks": 30
+    },
+    {
+      "top_k": 5,
+      "reranker_threshold": 0.15,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 482.48,
+      "std_latency_ms": 430.34,
+      "tasks": 30
+    },
+    {
+      "top_k": 5,
+      "reranker_threshold": 0.2,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 1015.08,
+      "std_latency_ms": 606.97,
+      "tasks": 30
+    },
+    {
+      "top_k": 5,
+      "reranker_threshold": 0.25,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 716.22,
+      "std_latency_ms": 793.14,
+      "tasks": 30
+    },
+    {
+      "top_k": 5,
+      "reranker_threshold": 0.3,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 264.33,
+      "std_latency_ms": 97.79,
+      "tasks": 30
+    },
+    {
+      "top_k": 5,
+      "reranker_threshold": 0.35,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 259.79,
+      "std_latency_ms": 90.91,
+      "tasks": 30
+    },
+    {
+      "top_k": 5,
+      "reranker_threshold": 0.4,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 265.05,
+      "std_latency_ms": 92.14,
+      "tasks": 30
+    },
+    {
+      "top_k": 5,
+      "reranker_threshold": 0.45,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 261.3,
+      "std_latency_ms": 92.11,
+      "tasks": 30
+    },
+    {
+      "top_k": 5,
+      "reranker_threshold": 0.5,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 261.54,
+      "std_latency_ms": 89.87,
+      "tasks": 30
+    },
+    {
+      "top_k": 8,
+      "reranker_threshold": 0.15,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 381.55,
+      "std_latency_ms": 214.74,
+      "tasks": 30
+    },
+    {
+      "top_k": 8,
+      "reranker_threshold": 0.2,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 405.48,
+      "std_latency_ms": 195.88,
+      "tasks": 30
+    },
+    {
+      "top_k": 8,
+      "reranker_threshold": 0.25,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 371.51,
+      "std_latency_ms": 180.78,
+      "tasks": 30
+    },
+    {
+      "top_k": 8,
+      "reranker_threshold": 0.3,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 323.8,
+      "std_latency_ms": 137.08,
+      "tasks": 30
+    },
+    {
+      "top_k": 8,
+      "reranker_threshold": 0.35,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 327.43,
+      "std_latency_ms": 143.88,
+      "tasks": 30
+    },
+    {
+      "top_k": 8,
+      "reranker_threshold": 0.4,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 667.29,
+      "std_latency_ms": 621.37,
+      "tasks": 30
+    },
+    {
+      "top_k": 8,
+      "reranker_threshold": 0.45,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 458.01,
+      "std_latency_ms": 294.77,
+      "tasks": 30
+    },
+    {
+      "top_k": 8,
+      "reranker_threshold": 0.5,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 343.08,
+      "std_latency_ms": 150.93,
+      "tasks": 30
+    },
+    {
+      "top_k": 10,
+      "reranker_threshold": 0.15,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 632.9,
+      "std_latency_ms": 575.33,
+      "tasks": 30
+    },
+    {
+      "top_k": 10,
+      "reranker_threshold": 0.2,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 509.64,
+      "std_latency_ms": 279.53,
+      "tasks": 30
+    },
+    {
+      "top_k": 10,
+      "reranker_threshold": 0.25,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 434.76,
+      "std_latency_ms": 202.13,
+      "tasks": 30
+    },
+    {
+      "top_k": 10,
+      "reranker_threshold": 0.3,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 472.97,
+      "std_latency_ms": 233.07,
+      "tasks": 30
+    },
+    {
+      "top_k": 10,
+      "reranker_threshold": 0.35,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 398.2,
+      "std_latency_ms": 178.92,
+      "tasks": 30
+    },
+    {
+      "top_k": 10,
+      "reranker_threshold": 0.4,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 1763.05,
+      "std_latency_ms": 1848.1,
+      "tasks": 30
+    },
+    {
+      "top_k": 10,
+      "reranker_threshold": 0.45,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 2303.05,
+      "std_latency_ms": 2205.57,
+      "tasks": 30
+    },
+    {
+      "top_k": 10,
+      "reranker_threshold": 0.5,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 556.1,
+      "std_latency_ms": 289.21,
+      "tasks": 30
+    },
+    {
+      "top_k": 12,
+      "reranker_threshold": 0.15,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 743.72,
+      "std_latency_ms": 523.11,
+      "tasks": 30
+    },
+    {
+      "top_k": 12,
+      "reranker_threshold": 0.2,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 2558.79,
+      "std_latency_ms": 2250.7,
+      "tasks": 30
+    },
+    {
+      "top_k": 12,
+      "reranker_threshold": 0.25,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 689.86,
+      "std_latency_ms": 562.78,
+      "tasks": 30
+    },
+    {
+      "top_k": 12,
+      "reranker_threshold": 0.3,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 2148.44,
+      "std_latency_ms": 1565.47,
+      "tasks": 30
+    },
+    {
+      "top_k": 12,
+      "reranker_threshold": 0.35,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 1037.25,
+      "std_latency_ms": 1295.73,
+      "tasks": 30
+    },
+    {
+      "top_k": 12,
+      "reranker_threshold": 0.4,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 481.88,
+      "std_latency_ms": 258.26,
+      "tasks": 30
+    },
+    {
+      "top_k": 12,
+      "reranker_threshold": 0.45,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 430.84,
+      "std_latency_ms": 188.0,
+      "tasks": 30
+    },
+    {
+      "top_k": 12,
+      "reranker_threshold": 0.5,
+      "citation_support_rate": 1.0,
+      "mean_max_reranker_score": 1.0,
+      "mean_latency_ms": 459.35,
+      "std_latency_ms": 219.31,
+      "tasks": 30
+    }
+  ],
+  "recommended": {
+    "top_k": 12,
+    "reranker_threshold": 0.45,
+    "reason": "quality-first: highest mean_max_reranker_score, top_k>=5 (sufficient evidence for news), among citation_rate>=90%"
+  }
+}

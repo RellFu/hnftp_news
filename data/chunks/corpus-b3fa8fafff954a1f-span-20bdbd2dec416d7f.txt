@@ -1,0 +1,1 @@
+Many universities in Hainan province offer full-time programs for their international students, ranging from bachelor's degrees to doctorates. They also excel in academic disciplines — including economics, the law, literature, science, agriculture, engineering and management.

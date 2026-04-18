@@ -1,0 +1,3 @@
+[Video provided by CCTV.com]
+Polish teacher Michael Dahl has come to Hainan to teach English at a university. Watch this video to see more details.
+You are leaving this site and will be connected to a third-party website.

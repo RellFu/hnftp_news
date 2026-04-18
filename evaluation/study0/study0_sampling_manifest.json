@@ -1,0 +1,885 @@
+{
+  "description": "Study 0 sampling manifest (Hainan media vs general media)",
+  "documents": [
+    {
+      "doc_id": "hainan-228659bf3167",
+      "source": "南海网",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-bb8b9288bb3d",
+      "source": "南海网",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-58bdf6fa77be",
+      "source": "南海网",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-ed3a50456a72",
+      "source": "南海网",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-6a07a65af186",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-1e85b55a770d",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-98af416d2f1e",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-0cd7b8f792f7",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-7390fb491122",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-518aa794e45e",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-3e1c44594c3a",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-fd7731b462b8",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-090fd53c780e",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-699c5f7be61a",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-44b26d01e5a1",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-a5b2f598038b",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-494793239808",
+      "source": "海南日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-9abe2c013ec7",
+      "source": "海南日报",
+      "publication_date": "2025-01-26",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-83947c021a44",
+      "source": "海南广播电视总台",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-76275e423ea6",
+      "source": "海南广播电视总台",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-ce48d1457116",
+      "source": "海南广播电视总台",
+      "publication_date": "2026-02-06",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-e46df101e0ce",
+      "source": "海南广播电视总台",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-79a337214fa3",
+      "source": "海南广播电视总台",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-009948c9d735",
+      "source": "海南广播电视总台",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-4720452a2469",
+      "source": "海南广播电视总台",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-b4b4dbef052f",
+      "source": "海南广播电视总台",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-ccbfabc4ffa0",
+      "source": "海南广播电视总台",
+      "publication_date": "2017-07-20",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-22494cdb2831",
+      "source": "海南广播电视总台",
+      "publication_date": "2025-08-27",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-4be2d6447d6a",
+      "source": "海南广播电视总台",
+      "publication_date": "2020-08-20",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-391b5e7df45d",
+      "source": "海南广播电视总台",
+      "publication_date": "2020-08-20",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-c0ad48ea425f",
+      "source": "海南广播电视总台",
+      "publication_date": "2020-08-20",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-be5492138b78",
+      "source": "海南广播电视总台",
+      "publication_date": "2020-08-20",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-a0afa6cd7d5d",
+      "source": "海南广播电视总台",
+      "publication_date": "2020-08-20",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-2658dd9b4e01",
+      "source": "海南广播电视总台",
+      "publication_date": "2020-07-30",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-c85b1fa61aee",
+      "source": "海南广播电视总台",
+      "publication_date": "2019-11-01",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-4dac4bdf0fe5",
+      "source": "海南广播电视总台",
+      "publication_date": "2019-11-01",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-1177d2641a39",
+      "source": "海南广播电视总台",
+      "publication_date": "2019-11-15",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-1f122fdca1da",
+      "source": "海南广播电视总台",
+      "publication_date": "2019-11-01",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-57bbf5e6797f",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-e00492acf295",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-919d3296f270",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-5e9264306cf5",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-47faf101620a",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-ddab42dc724f",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-029eea574e3e",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-b28983ee2db8",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-2444ea293a33",
+      "source": "新华网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-d48da5a1dfd6",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-0e6007b78d0f",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-e5736102c283",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-51358225bbee",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-df6ff988459b",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-043658c25879",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-13271f255888",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "hainan-9eafb6e94047",
+      "source": "人民网海南频道",
+      "publication_date": "2026-03-04",
+      "is_hainan": true,
+      "topic_label": "Hainan policy reporting (南海网/海南日报/海南广电/新华网海南/人民网海南)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-f25c717c8b01",
+      "source": "新华社",
+      "publication_date": "2026-02-01",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-3b781e9255b4",
+      "source": "新华社",
+      "publication_date": "2026-01-09",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-dc7e41d51b52",
+      "source": "新华社",
+      "publication_date": "2026-01-29",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-29a3784dedf5",
+      "source": "新华社",
+      "publication_date": "2025-12-16",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-eb74c141df9e",
+      "source": "新华社",
+      "publication_date": "2025-12-11",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-2bc98b07124b",
+      "source": "新华社",
+      "publication_date": "2025-10-19",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-08addd3e2852",
+      "source": "新华社",
+      "publication_date": "2025-06-09",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-8df0c296fcf6",
+      "source": "新华社",
+      "publication_date": "2025-05-14",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-654850983fbf",
+      "source": "新华社",
+      "publication_date": "2025-02-20",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-ef62a4fe7d85",
+      "source": "新华社",
+      "publication_date": "2024-12-27",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-b2897c6e6f76",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-f2ab32603f95",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-ad85118abb42",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-69b63fc05cdb",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-d0490828e124",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-22d38a3d9dce",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-920a65a277c8",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-0b4acca408b9",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-54508b7c9795",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-1dad89a0e3c4",
+      "source": "人民日报",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-9a500d0616a2",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-50d145b4cbc6",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-f4f4bbacd67f",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-fb4b37319822",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-d9e705ab3b28",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-74af13519ecf",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-a9679035ac78",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-d4c948ccb008",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-3c3755f8f5fe",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-435ea7b81ed0",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-3e8c0e17b0ad",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-7258fbfda96a",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-29119aee8726",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-f72cb6f743c0",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-fd170023e4c8",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-4fb334372729",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-9de435e3b498",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-d8e4c9c2ed2e",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-21efaa72da7a",
+      "source": "BBC",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-cde1bb48ec1d",
+      "source": "纽约时报",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-39247f339861",
+      "source": "纽约时报",
+      "publication_date": "2026-03-02",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-77e62bd0277c",
+      "source": "纽约时报",
+      "publication_date": "2026-02-10",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-b0cdea0089ad",
+      "source": "纽约时报",
+      "publication_date": "2026-02-22",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-ed2ad512987f",
+      "source": "纽约时报",
+      "publication_date": "2026-02-02",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-f050158974cd",
+      "source": "纽约时报",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-25e46912c6f9",
+      "source": "纽约时报",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-6258cdd22ce1",
+      "source": "纽约时报",
+      "publication_date": "2026-02-03",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-1cbfca48d744",
+      "source": "纽约时报",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-07f0348f7bef",
+      "source": "纽约时报",
+      "publication_date": "2025-11-13",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-fc5a395d3567",
+      "source": "法新社",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-4b2e0e3e39a9",
+      "source": "法新社",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-c30c4f4635aa",
+      "source": "路透社",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-e67c33a9c1f4",
+      "source": "路透社",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-8412a5960f0b",
+      "source": "路透社",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    },
+    {
+      "doc_id": "nonhainan-e23cd4e93c90",
+      "source": "路透社",
+      "publication_date": "2026-03-04",
+      "is_hainan": false,
+      "topic_label": "General news (新华社/人民日报/BBC/NYT/Reuters/AFP)",
+      "included_in_study0": true
+    }
+  ]
+}

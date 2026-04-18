@@ -1,0 +1,3 @@
+Q:How to apply for work permits in Hainan on this website?
+A:Watch the video to find the answers you're looking for.
+You are leaving this site and will be connected to a third-party website.

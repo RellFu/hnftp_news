@@ -1,0 +1,48 @@
+The Qilou Old Street area consists of dozens of alleyways and thoroughfares in the old city center of Haikou, Hainan province, which is deemed one of the country's best-preserved areas of these arcade houses. [Photo provided to China Daily]
+Lin Qi finds authentic island life in the labyrinth of Haikou's old streets, capturing a leisurely travel pace.
+When you start to feel bored or overwhelmed by a hectic holiday itinerary, hurrying from one place to another, and just fancy spending a couple of relaxing, aimless days in a seaside resort, Haikou in Hainan province comes highly recommended.
+Located at the northern end of Hainan, the provincial capital faces the mainland across the Qiongzhou Strait. The area keeps travelers happily sheltered from overcrowded tourist groups and immerses them in the locals' relaxed pace of life.
+Travelers to Haikou need not worry about falling into tourist traps. Instead, they will be warmly welcomed into the locals' everyday routines, such as joining residents at their favorite breakfast spots.
+One such place is the narrow, busy Yixing Street at the end of which sits Xitian Temple, tucked away in one of Haikou's expansive old neighborhoods. The temple was first built in the 16th century as a shrine to Wang Zuo (1428-1512), a reputed personage in the community, where locals paid tribute to him for a safe and smooth sea voyage before setting out.
+These days people come not only to worship Wang but also to begin their morning refreshments. People's appetites are awakened by a variety of delicacies from all over Hainan, available at eateries and takeaway stands lining both sides of the street.
+Popular specialties sometimes sell out early, including Danzhou milan rice noodles, named after a city to the southwest of Haikou where the noodles originate. The boiled noodles are often topped with meat, vegetables, pickles and other savory ingredients.
+Another Danzhou delicacy, baimo, is a must-try, says Fu Zhanchuan, a local who frequents the street when he needs to satisfy his appetite. Baimo is a creamy rice cake usually placed in a large bowl and topped with salty seasonings and sliced spring onions.
+The clock tower is one of the landmarks located at the heart of Haikou, Hainan province. [Photo provided to China Daily]
+Vintage architecture
+The smell of the food and the noise of passing motorcycles loaded with commodities on Yixing Street are typical sensory delights of the Qilou Old Street area, which consists of dozens of alleyways and thoroughfares in the old city center of Haikou.
+This complex of nearly 600 vintage buildings, mostly built in the early 20th century, encapsulates Haikou's modern memories and old soul.
+Qilou, or arcade house, is a distinctive architectural style also found in the coastal provinces of Guangdong and Fujian, as well as the Guangxi Zhuang autonomous region. These areas were major sources of Chinese immigrants to Southeast Asia. In the 19th and 20th centuries, those who went overseas brought back European colonial architectural styles, which inspired a surge in the construction of qilou, merging Chinese and Western architectural features.
+The complex in Haikou is deemed one of the country's best-preserved qilou areas, and was listed as a city block for tourism and leisure by the Ministry of Culture and Tourism in 2022.
+The Cloudscape Library, a recent addition to Haikou's cultural scene, is popular among young people. [Photo by Lin Qi/China Daily]
+"The relief patterns on the qilou facades are part Chinese and part Western. The buildings are supported by Roman columns, while also integrated with the Chinese style, nyu'er qiang, a low wall along the edge of the roof designed for observing approaching invaders," says Fu, who works at the Qilou Old Street tourist center.
+He says that shop owners are required to preserve the original exterior features of these buildings when they conduct renovations, including the carved names of the brands on the facades from when they were built — these characters, representing retailers, restaurants, opera troupes and theaters, stand as testimony to the booming commerce of the past.
+Before the advent of electric air conditioning, the qilou streets, with arcades formed by adjacent buildings creating long passages, provided shelter from sudden rainstorms and the scorching sun. This cooling technique remains effective today, even during Haikou's intense summer heat.
+An eatery on the bustling Yixing Street in Haikou offers specialties from across the island. [Photo by Lin Qi/China Daily]
+Cool remedies
+For residents living in subtropical and tropical regions, many still hold on to traditional remedies to cool down and dispel dampness despite the availability of air conditioning. For example, to be authentically local, visitors might drink a cup of liangcha, one of the popular cooling herbal teas.
+In the labyrinth of qilou lanes, I find small liangcha shops and stands. They have diverse menus that include cold and warm drinks and desserts. I resist the temptation to order salted lemonade or ginger milk tea and tell the woman who manages the stand to pour a small cup of herbal tea. The incredibly dark liquid — its ingredients a secret, according to the woman — tastes exactly as I anticipated, but with an even more impressively bitter edge.
+I stop for a deep breath, and the woman says: "I told you. Do not stop. It tastes bitter. That's why you should drink it all at once."
+No wonder very few young people order tea at these liangcha shops. The middle-aged and elderly customers quickly drink the tea, just as the woman instructs, in one gulp, and throw the cups into the trash can, as if releasing the heat and humidity.
+The Evergreen Park offers spectacular sea views and is an ideal place for walking or running. [Photo by Lin Qi/China Daily]
+A quick online search says that the younger generation prefers to hang out at Cloudscape, the newest hotspot for taking photos and sharing on social media.
+At the center of this spacious cultural complex is Wormhole Library, a white building with a fluid shape that, according to its designer, MAD architecture studio, resembles "an imaginary marine creature". Its irregularly shaped windows not only allow light to flood the interior but also provide visitors with delightful views of the sky and ever-changing clouds.
+The library also has a cafe, separate reading areas surrounded by bookshelves, and a resting space in which a large window reveals an expansive sea view.
+The library is open from 10 am to 10 pm from Tuesday to Sunday, and is often fully booked ahead of opening time.
+A widely shared tip among social media creators suggests that, if visiting only to take photos, there is no need to enter — just stand outside the library at dusk to guarantee a great sunset photo.
+Jiajing Island in Wanning is a protected marine area known for its exceptional water clarity. [Photo provided to China Daily]
+Nighttime activities
+The arrival of the sunset glow also reminds you that, when on a tropical island, the nightlife can be thrilling, but the first task is to find a place to satisfy a hearty appetite.
+One such destination not far from Cloudscape is the Haida Night Market, outside the south gate of Hainan University's Haidian campus.
+Between 6 pm and 12:30 am, the last 380 meters of Sanxi Road, which leads to the sea, are transformed into a bustling night market, with the traffic blocked and directed by security personnel.
+Stalls are arranged on each side of the 16-meter-wide road, and desks and chairs are placed in the middle. Cleaners hop from one stall to another to keep the area tidy.
+Chen Min, one of the night market's managers, says the opening of the night market allows mobile street vendors, many of whom were unemployed or struggling financially, to make a living by having a fixed stall. She says the market currently has about 250 stalls, more than half of which sell snacks and fruit, and the rest are small commodity retailers.
+Jiajing Island is an ideal location for water activities, such as snorkeling. [Photo provided to China Daily]
+"Here you will find different flavors spanning from northern to southern China, such as noodles from northwestern cuisine and spicy snacks from Sichuan and Guizhou provinces — the market suits the diverse appetites of college students from across the country," she says.
+"Visiting the market is a must-do for tourists as they can also find authentic Hainan food here."
+It is a paradise for those who love the qingbuliang (refreshing, nutritious and cooling) sweet soup, a "hotpot" of fruit, ice cream, nuts, eggs, taro, beans and coconut chips, to name a few ingredients.
+Divers explore the deep blue sea to get up close to marine life and coral reefs. [Photo provided to China Daily]
+For those who possess a strong palate, a bowl of Lingshui rice noodles mixed with pickles and covered with sour sauce is worth a try. The dish originates from the Lingshui Li autonomous county in the island's southeastern region.
+If you dare, tell the stall owners to add edible sea worms — dug fresh from the beach and only available depending on that day's weather — and the yellow lantern chili Hainan is known for.
+Sitting among local diners and college students leaves you feeling even more immersed in the leisurely pace of Haikou.
+Dongshan Mountain in Wanning is a big draw for nature lovers and hikers. [Photo provided to China Daily]
+You are leaving this site and will be connected to a third-party website.

@@ -1,0 +1,12 @@
+{
+  "description": "非海南语料：新华社、人民日报、BBC、纽约时报、路透社、法新社",
+  "documents": [
+    {
+      "doc_id": "nonhainan-001",
+      "source": "新华社",
+      "publication_date": "2024-06-15",
+      "title": "示例标题",
+      "text": "正文内容……（或使用 file_path 指向 data/study0/non_hainan/xxx.md）"
+    }
+  ]
+}

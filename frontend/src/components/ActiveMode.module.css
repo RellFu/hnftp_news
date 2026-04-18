@@ -1,0 +1,268 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.sectionTitle {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.desc {
+  margin: 0;
+  font-size: 0.875rem;
+  color: #6b7280;
+  line-height: 1.5;
+}
+
+.submitBtn {
+  padding: 0.5rem 1.25rem;
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.submitBtn:hover {
+  background: #1d4ed8;
+}
+
+.submitBtn:disabled {
+  background: #9ca3af;
+  cursor: not-allowed;
+}
+
+.loadingWrap {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.loadingStatus {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.875rem 1rem;
+  background: #f0f9ff;
+  border: 1px solid #bae6fd;
+  border-radius: 8px;
+  font-size: 0.875rem;
+  color: #0369a1;
+}
+.loadingSpinner {
+  flex-shrink: 0;
+  width: 1.25rem;
+  height: 1.25rem;
+  border: 2px solid #bae6fd;
+  border-top-color: #0284c7;
+  border-radius: 50%;
+  animation: loadingSpin 0.7s linear infinite;
+}
+@keyframes loadingSpin {
+  to { transform: rotate(360deg); }
+}
+.loadingMessage {
+  flex: 1;
+}
+.loadingElapsed {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  color: #0c4a6e;
+}
+
+.errorBox {
+  padding: 0.75rem;
+  color: #dc2626;
+  background: #fef2f2;
+  border-radius: 8px;
+  font-size: 0.875rem;
+}
+
+.resultSection {
+  margin-top: 0.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.resultTitle {
+  margin: 0 0 0.5rem;
+  font-size: 0.9375rem;
+  font-weight: 600;
+}
+
+.warnText {
+  margin-bottom: 0.5rem;
+  font-size: 0.875rem;
+  color: #b45309;
+}
+
+.queryUsed {
+  margin: 0 0 0.75rem;
+  font-size: 0.8125rem;
+  color: #6b7280;
+}
+
+.list {
+  margin: 0;
+  padding-left: 1.25rem;
+  list-style: disc;
+}
+
+.item {
+  margin-bottom: 0.75rem;
+  font-size: 0.875rem;
+}
+
+.link {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.snippet {
+  margin: 0.25rem 0 0;
+  color: #4b5563;
+  line-height: 1.5;
+  font-size: 0.8125rem;
+}
+
+.empty {
+  margin: 0;
+  font-size: 0.875rem;
+  color: #9ca3af;
+}
+
+.pitchList {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.pitchCard {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #fafafa;
+  overflow: hidden;
+}
+
+.pitchCardHeader {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.5rem 1rem;
+  background: #f3f4f6;
+}
+
+.pitchCardTitle {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #374151;
+  white-space: normal;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  flex: 1;
+  min-width: 0;
+}
+
+.themeTag {
+  flex-shrink: 0;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  color: #fff;
+}
+
+.tagPolicy { background: #2563eb; }
+.tagTourism { background: #059669; }
+.tagCulture { background: #7c3aed; }
+.tagEcology { background: #0d9488; }
+.tagSports { background: #dc2626; }
+.tagLivelihood { background: #ea580c; }
+.tagOther { background: #6b7280; }
+
+.pitchCardBody {
+  padding: 1rem 1.25rem;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+}
+
+.pitchLabel {
+  margin: 0.75rem 0 0.25rem;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: #6b7280;
+}
+
+.pitchLabel:first-child {
+  margin-top: 0;
+}
+
+.pitchText {
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+  color: #374151;
+}
+
+.pitchPlan {
+  margin: 0;
+  white-space: pre-wrap;
+  font-family: inherit;
+  font-size: 0.9375rem;
+  color: #374151;
+}
+
+.ragStatus {
+  margin: 0.5rem 0 0;
+  font-size: 0.8125rem;
+  color: #6b7280;
+}
+
+.ragError {
+  color: #b45309;
+}
+
+.evidenceStatus {
+  color: #6b7280;
+}
+
+.downgradeMessage {
+  margin: 0.5rem 0 0;
+  padding: 0.5rem 0.75rem;
+  background: #fef3c7;
+  color: #92400e;
+  border-radius: 6px;
+  font-size: 0.8125rem;
+  line-height: 1.4;
+}
+
+.ragMeta {
+  font-size: 0.75rem;
+  color: #9ca3af;
+}
+
+.webSourcesDetail {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.webSourcesSummary {
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 0.875rem;
+  color: #6b7280;
+}
